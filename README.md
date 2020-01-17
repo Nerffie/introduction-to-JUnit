@@ -10,7 +10,7 @@
 | Tests manuels  |Tests automatisés   |
 |---|---|
 |Exécution manuelle des tests sans prise en charge d'outils externes. | Prise en charge des outils externes et exécution des tests à l'aide de ces outils d'automatisation.  |
-| Les tests sont exécutés manuellement, c'est une procédure très lente et fastidieuse.  | L'automatisation exécute les tests beaucoup plus rapidement qu'un dévelepeur.  |
+| Les tests sont exécutés manuellement, c'est une procédure très lente et fastidieuse.  | L'automatisation exécute les tests beaucoup plus rapidement qu'un développeur.  |
 | Les tests manuels sont moins fiables, car ils doivent tenir compte des erreurs humaines.  | Les tests automatisés sont précis et fiables.  |
 
 <p align="justify">JUnit est le framework le plus populaire pour la réalisation des tests automatisés pour l'écosystéme Java. Le principal intérêt est de s'assurer que le code répond toujours aux besoins même après d'éventuelles modifications. JUnit a été bifurqué en JUnit 4 et JUnit 5. Alors que JUnit 5 contient un certain nombre d'innovations intéressantes, dans le but de prendre en charge de nouvelles fonctionnalités dans Java 8 et plus, ainsi que de permettre de nombreux styles de tests différents, JUnit 4 est toujours le plus populaire, et nous sommes plus susceptibles de trouver des cas de test JUnit 4 dans la pratique. Pour cette raison, nous nous concentrerons sur la création de tests automatisés avec JUnit 4.</p>
